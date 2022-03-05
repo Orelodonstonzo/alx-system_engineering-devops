@@ -1,1 +1,1 @@
-Scri dat prin all d grou d currt user is part of
+Scri da chan d own of d file hello to d user betty
