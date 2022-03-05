@@ -1,1 +1,1 @@
-Scri dat adds execu permi to d own and d grou own and read permi to othe user to d file hello
+Scri dat adds execu permi to d own d grou own and d othr user to d file hello
