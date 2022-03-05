@@ -1,1 +1,1 @@
-Scri da chan d own of d file hello to d user betty
+Scri creats an empty file call hello
