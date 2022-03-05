@@ -1,1 +1,1 @@
-Script that prints d eff usrnam of d currt user
+Scri dat prin all d grou d currt user is part of
