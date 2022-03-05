@@ -1,1 +1,1 @@
-Scri dat execu permi to all subdirec of d currt direc for d ownr, d grou ownr and all othr user
+Scri dat creat a dir calld my dir with permi 751 in d workn dir
