@@ -1,1 +1,1 @@
-Disply cont of /etc/passwd file
+Disply d cont of /etc/passwd and /etc/hosts
