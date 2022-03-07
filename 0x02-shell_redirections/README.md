@@ -1,1 +1,1 @@
-scri dat disply a confsd smiley (Ôo)" 
+Disply cont of /etc/passwd file
