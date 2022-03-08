@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+cd 0x02-shell_redirections
