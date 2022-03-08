@@ -1,1 +1,1 @@
-Disply d last 10 line of /etc/passwd
+Disply d firs 10 line of d /etc/passwd
